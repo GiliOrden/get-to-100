@@ -1,0 +1,23 @@
+body {
+  background-color: #282c34;
+  /* color: white;
+  padding: 40px;
+  font-family: Sans-Serif;
+  text-align: center; */
+}
+.background {
+  border: none;
+}
+#root {
+  border: none;
+}
+
+ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+ul li {
+  flex-basis: 50%;
+}

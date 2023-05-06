@@ -1,0 +1,19 @@
+div {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  font-family: Sans-Serif;
+  text-align: center;
+  border: 1px solid red;
+  margin: 5px;
+}
+.noButton {
+  display: none;
+}
+.yesButton {
+  background-color: red;
+}
+/* .div:hover {
+  box-shadow: 0px 0px 10px rgb(255, 255, 255);
+  border: 1px solid white;
+} */
